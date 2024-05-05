@@ -31,7 +31,8 @@ cd heart-data-visualization
 pip install -r requirements.txt
 
 
-## Usage
+Begin the usage of tne progam by:
+
 1. Start Jupyter Notebook:
 
 jupyter notebook medical_analysis.ipynb
